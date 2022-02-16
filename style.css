@@ -1,0 +1,40 @@
+body{
+    background-color:coral
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}
+
+a.bit{
+    position: relative;
+    left: 1500px;
+}
+
+a.eth{
+    position: relative;
+    left: 1250px;
+}
+
+div.white{
+    background-color: white;
+}
+
+a.lite{
+    position: relative;
+    left: 350px;
+}
+
+div.nom{
+    background-color: yellow;
+    text-align: center;
+}
+
+span.R{
+    color: red;
+}
+
+input.valor{
+    color: red;
+}
